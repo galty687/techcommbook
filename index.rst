@@ -26,7 +26,7 @@
 
    1-introduction/techwriting
    1-introduction/techcomm
-   1-introduction/techcomm-model
+   1-introduction/techcomm-industry
    1-introduction/techcomm-competence
    1-introduction/
    
