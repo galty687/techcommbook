@@ -58,6 +58,7 @@
     4-information-design/single-sourcing.rst
     4-information-design/progressive.rst
     4-information-design/emotional.rst
+    4-information-design/storytelling.rst
     4-information-design/gamification.rst
 
 
