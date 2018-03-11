@@ -54,9 +54,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = '技术传播教程'
-copyright = '2018, 高志军'
-author = '高志军'
+project = u'技术传播教程'
+copyright = u'2018, 高志军'
+author = u'高志军'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -157,7 +157,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'sphinx', '技术传播教程 Documentation',
+    (master_doc, 'sphinx', u'技术传播教程 Documentation',
      [author], 1)
 ]
 
@@ -168,7 +168,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'sphinx', '技术传播教程 Documentation',
+    (master_doc, 'sphinx', u'技术传播教程',
      author, 'sphinx', 'One line description of project.',
      'Miscellaneous'),
 ]
