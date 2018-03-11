@@ -41,6 +41,8 @@
     :caption: 第三章：用户需求分析
 
     3-user-analysis/info-need-model.rst
+    3-user-analysis/task model.rst
+    3-user-analysis/human factors
 
 .. toctree::
     :maxdepth:1
