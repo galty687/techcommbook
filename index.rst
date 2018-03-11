@@ -81,7 +81,7 @@
 
 .. toctree::
     :maxdepth:1
-    :caption: 第六章：常见技术写作工具
+    :caption: 第六章：常用技术写作工具
 
     6-tools/oxygen
     6-tools/madcap
@@ -108,7 +108,7 @@
 
 .. toctree::
     :maxdepth:1
-    :caption: 第九章：现代用户帮助技术
+    :caption: 第九章：新型用户帮助技术
 
     9-other_user_support/ar.rst
     9-other_user_support/chatbot.rst
