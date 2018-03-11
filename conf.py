@@ -147,8 +147,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'sphinx.tex', '技术传播教程 Documentation',
-     '高志军', 'manual'),
+    (master_doc, 'sphinx.tex', u'技术传播教程 Documentation',
+     u'高志军', 'manual'),
 ]
 
 
