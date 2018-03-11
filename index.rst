@@ -47,6 +47,7 @@
     3-user-analysis/info-need-model.rst
     3-user-analysis/task model.rst
     3-user-analysis/human factors
+    3-user-analysis/behavior.rst
 
 .. toctree::
     :maxdepth:1
@@ -63,6 +64,7 @@
     :maxdepth:1
     :caption: 第五章：技术信息开发技术
     
+    5-info-develop/html
     5-info-develop/xml
     5-info-develop/lightweight
 
