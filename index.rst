@@ -15,7 +15,7 @@
 #. 文档托管。`Read the Docs <http://readthedocs.org>`_
 #. 写作工具。`MS Visual Studio Code <https://code.visualstudio.com>`_
 
-本课程选课同学将按照技术写作的流程，参与到教程的写作和审校工作。
+本课程选课同学将按照技术写作的流程，参与到教程的写作和审校工作中。
 
 .. note::
     目前图书只是列出了大纲，内容正在写作中。请持续关注。
