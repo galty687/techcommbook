@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-技术传播教程
+技术传播教程：原理与实践
 ========================================
 本书用于《技术传播方法》课程的教学，因为服务于技术写作课程的教学，本教程将采用 *Doc like Code* 的模式进行写作。
 
