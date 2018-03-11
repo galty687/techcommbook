@@ -20,7 +20,7 @@
 
 .. toctree::
    :maxdepth: 1
-   :caption: 概述
+   :caption: 第一章：概述
 
    1-introduction/techwriting
    1-introduction/techcomm
@@ -31,9 +31,42 @@
 
 .. toctree::
     :maxdepth:1
-    :caption: 用户帮助产品
+    :caption: 第二章：常见用户帮助形式
 
     2-user_support/wiki.rst
+    2-user_support/manual.rst
+
+.. toctree::
+    :maxdepth:1
+    :caption: 第三章：用户需求分析
+
+.. toctree::
+    :maxdepth:1
+    :caption: 第四章：技术信息设计
+
+
+.. toctree::
+    :maxdepth:1
+    :caption: 第五章：技术信息开发
+
+.. toctree::
+    :maxdepth:1
+    :caption: 第六章：常见技术写作工具
+.. toctree::
+    :maxdepth:1
+    :caption: 第七章：常见技术写作工具
+
+.. toctree::
+    :maxdepth:1
+    :caption: 第八章：技术信息产品评价
+
+.. toctree::
+    :maxdepth:1
+    :caption: 第九章：综合实训案例
+
+.. toctree::
+    :maxdepth:1
+    :caption: 第十章：其他常见用户帮助技术
 
 目录与表格
 ==================
