@@ -99,7 +99,7 @@
 
 .. toctree::
     :maxdepth:1
-    :caption: 第九章：其他常见用户帮助技术
+    :caption: 第九章：现代用户帮助技术
 
     9-other_user_support/ar.rst
     9-other_user_support/chatbot.rst
