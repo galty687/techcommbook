@@ -48,10 +48,13 @@
     :maxdepth:1
     :caption: 第三章：用户需求分析
 
-    3-user-analysis/info-need-model.rst
-    3-user-analysis/task model.rst
-    3-user-analysis/human factors
     3-user-analysis/behavior.rst
+    3-user-analysis/human factors
+    3-user-analysis/task model.rst
+    3-user-analysis/info-need-model.rst
+    
+    
+    
 
 .. toctree::
     :maxdepth:1
