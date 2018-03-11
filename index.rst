@@ -39,6 +39,8 @@
     2-user_support/csh.rst
     2-user_support/chm.rst
     2-user_support/wiki.rst
+    2-user_support/walkme.rst
+    2-user_support/api.rst
     
     
 
