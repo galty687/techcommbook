@@ -9,9 +9,9 @@
 
 所用的技术如下：
 
-1. 内容写作。采用轻量级的标记语言：restructuredtext<http://www.sphinx-doc.org/en/master/rest.html#rst-primer>
-#. 文档发布工具。Sphinx<http://www.sphinx-doc.org/en/master/index.html>
-#. 文档托管。Read the Docs<http://readthedocs.org>
+1. 内容写作。采用轻量级的标记语言：restructuredtext <http://www.sphinx-doc.org/en/master/rest.html#rst-primer>
+#. 文档发布工具。Sphinx <http://www.sphinx-doc.org/en/master/index.html>
+#. 文档托管。Read the Docs <http://readthedocs.org>
 
 本班的选课同学将按照技术写作的流程，参与到教程的写作和修订工作。
 
