@@ -48,29 +48,42 @@
     :maxdepth:1
     :caption: 第四章：技术信息设计
 
+    4-information-design/minimalism.rst
+
 
 .. toctree::
     :maxdepth:1
-    :caption: 第五章：技术信息开发
+    :caption: 第五章：技术信息开发技术
+    
+    5-info-develop/xml
+
 
 .. toctree::
     :maxdepth:1
     :caption: 第六章：常见技术写作工具
-.. toctree::
-    :maxdepth:1
-    :caption: 第七章：常见技术写作工具
+
+    6-tools/oxygen
+
 
 .. toctree::
     :maxdepth:1
-    :caption: 第八章：技术信息产品评价
+    :caption: 第七章：技术信息产品评价
+
+    7-evaluation/usability.rst
 
 .. toctree::
     :maxdepth:1
-    :caption: 第九章：综合实训案例
+    :caption: 第八章：综合实训案例
+
+    8-projects/antconc.rst
+    8-projects/omegat.rst
 
 .. toctree::
     :maxdepth:1
-    :caption: 第十章：其他常见用户帮助技术
+    :caption: 第九章：其他常见用户帮助技术
+
+    9-other_user_support/ar.rst
+    9-other_user_support/chatbot.rst
 
 目录与表格
 ==================
