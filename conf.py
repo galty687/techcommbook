@@ -147,7 +147,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'sphinx.tex', u'技术传播教程 Documentation',
+    (master_doc, 'sphinx.tex', u'技术传播教程',
      u'高志军', 'manual'),
 ]
 
@@ -157,7 +157,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'sphinx', u'技术传播教程 Documentation',
+    (master_doc, 'sphinx', u'技术传播教程',
      [author], 1)
 ]
 
