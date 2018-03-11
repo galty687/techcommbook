@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-欢迎使用技术传播教程在线教程
+技术传播教程
 ========================================
 
 .. toctree::
@@ -15,13 +15,11 @@
    techcomm/c
    techwriting/tutorial
    intro
-   test/faq
-   test/index
-   test/introduction
+   
 
 
 
-Indices and tables
+目录与表格
 ==================
 
 * :ref:`genindex`
