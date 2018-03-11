@@ -33,8 +33,12 @@
     :maxdepth:1
     :caption: 第二章：常见用户帮助形式
 
-    2-user_support/wiki.rst
     2-user_support/manual.rst
+    2-user_support/csh.rst
+    2-user_support/chm.rst
+    2-user_support/wiki.rst
+    
+    
 
 .. toctree::
     :maxdepth:1
@@ -50,6 +54,9 @@
 
     4-information-design/minimalism.rst
     4-information-design/single-sourcing.rst
+    4-information-design/progressive.rst
+    4-information-design/emotional.rst
+    4-information-design/gamification.rst
 
 
 .. toctree::
