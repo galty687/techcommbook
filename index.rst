@@ -8,7 +8,7 @@
 
 .. toctree::
    :maxdepth: 1
-   :caption: 概述:
+   :caption: 概述
 
    1-introduction/techwriting
    1-introduction/techcomm
@@ -20,6 +20,7 @@
 .. toctree::
     :maxdepth:1
     :caption: 用户帮助产品
+
     2-user_support/wiki.rst
 
 目录与表格
