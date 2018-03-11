@@ -82,6 +82,10 @@
     :caption: 第七章：技术信息产品评价
 
     7-evaluation/usability.rst
+    7-evaluation/expert.rst
+    7-evaluation/content-analysis.rst
+    7-evaluation/automatic.rst
+
 
 .. toctree::
     :maxdepth:1
