@@ -5,15 +5,16 @@
 
 技术传播教程
 ========================================
-本书用于《技术传播方法》的教学，因为服务于技术写作的教学，本教程将采用Doc like Code的开发模式进行写作。
+本书用于《技术传播方法》课程的教学，因为服务于技术写作课程的教学，本教程将采用 *Doc like Code* 的模式进行写作。
 
 所用的技术如下：
 
 1. 内容写作。采用轻量级的标记语言：`restructuredtext <http://www.sphinx-doc.org/en/master/rest.html#rst-primer>`_
 #. 文档发布工具。`Sphinx <http://www.sphinx-doc.org/en/master/index.html>`_
 #. 文档托管。`Read the Docs <http://readthedocs.org>`_
+#. 写作工具。MS Visual Studio Code
 
-本班的选课同学将按照技术写作的流程，参与到教程的写作和修订工作。
+本课程选课同学将按照技术写作的流程，参与到教程的写作和修订工作。有感于开源精神和力量，本书拟成为开源教程，由社区共同开发和维护。
 
 
 
