@@ -5,12 +5,13 @@
 
 技术传播：原理与实践
 ========================================
-本书用于《技术传播方法》课程的教学，因为服务于技术写作课程的教学，本教程将采用当前流行的 *Doc like Code* 的模式进行写作。
+本书用于《技术传播方法》课程的教学，因为服务于技术写作课程的教学，本书将采用当前流行的 *Doc like Code* 的模式进行写作。
 
 所用的技术如下：
 
 1. 内容写作。采用轻量级的标记语言：`reStructuredText <http://www.sphinx-doc.org/en/master/rest.html#rst-primer>`_
 #. 文档发布工具。`Sphinx <http://www.sphinx-doc.org/en/master/index.html>`_
+#. 协同与版本控制。`github <http://github.com>`_
 #. 文档托管。`Read the Docs <http://readthedocs.org>`_
 #. 写作工具。`MS Visual Studio Code <https://code.visualstudio.com>`_
 
