@@ -10,10 +10,10 @@
    :maxdepth: 2
    :caption: 目录:
 
-   技术写作/a
-   技术写作/b
-   技术传播/c
-   技术传播/tutorial
+   techwriting/a
+   techwriting/b
+   techcomm/c
+   techwriting/tutorial
    intro
    test/faq
    test/index
