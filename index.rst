@@ -16,7 +16,8 @@
 
 本课程选课同学将按照技术写作的流程，参与到教程的写作和修订工作。
 
-
+.. note::
+目前图书只是列出了大概，内容正在写作中。请持续关注。
 
 
 .. toctree::
@@ -87,7 +88,7 @@
     :caption: 第七章：技术信息产品评价
 
     7-evaluation/usability.rst
-    7-evaluation/expert.rst
+    7-evaluation/heuristic.rst
     7-evaluation/content-analysis.rst
     7-evaluation/automatic.rst
 
