@@ -40,6 +40,8 @@
     :maxdepth:1
     :caption: 第三章：用户需求分析
 
+    3-user-analysis/info-need-model.rst
+
 .. toctree::
     :maxdepth:1
     :caption: 第四章：技术信息设计
