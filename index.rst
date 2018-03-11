@@ -12,7 +12,7 @@
 1. 内容写作。采用轻量级的标记语言：`restructuredtext <http://www.sphinx-doc.org/en/master/rest.html#rst-primer>`_
 #. 文档发布工具。`Sphinx <http://www.sphinx-doc.org/en/master/index.html>`_
 #. 文档托管。`Read the Docs <http://readthedocs.org>`_
-#. 写作工具。`MS Visual Studio Code<https://code.visualstudio.com>`_
+#. 写作工具。`MS Visual Studio Code <https://code.visualstudio.com>`_
 
 本课程选课同学将按照技术写作的流程，参与到教程的写作和修订工作。
 

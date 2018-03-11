@@ -1,4 +1,4 @@
-Adobe Robohelp
+Adobe FrameMaker
 ##############
 
 :date: 2010-10-03 10:20
