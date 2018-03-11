@@ -49,6 +49,7 @@
     :caption: 第四章：技术信息设计
 
     4-information-design/minimalism.rst
+    4-information-design/single-sourcing.rst
 
 
 .. toctree::
@@ -56,6 +57,7 @@
     :caption: 第五章：技术信息开发技术
     
     5-info-develop/xml
+    5-info-develop/lightweight
 
 
 .. toctree::
@@ -63,6 +65,9 @@
     :caption: 第六章：常见技术写作工具
 
     6-tools/oxygen
+    6-tools/madcap
+    6-tools/robohelp
+    6-tools/fm.rst
 
 
 .. toctree::
@@ -84,6 +89,8 @@
 
     9-other_user_support/ar.rst
     9-other_user_support/chatbot.rst
+    9-other_user_support/e-learning.rst
+    9-other_user_support/interactive-book.rst
 
 目录与表格
 ==================

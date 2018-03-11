@@ -1,4 +1,4 @@
-OmegaT说明书改造
+Adobe Robohelp
 ##############
 
 :date: 2010-10-03 10:20
