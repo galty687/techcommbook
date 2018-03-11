@@ -63,7 +63,7 @@
 
 .. toctree::
     :maxdepth:1
-    :caption: 第五章：技术信息开发技术
+    :caption: 第五章：技术信息开发技术基础
     
     5-info-develop/html
     5-info-develop/xml
