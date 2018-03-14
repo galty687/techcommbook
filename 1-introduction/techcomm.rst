@@ -1,9 +1,55 @@
-技术传播
-##############
+====================
+ReST Quick Reference
+====================
 
-:date: 2010-10-03 10:20
+Underline titles with punctuation
+=================================
 
+.. _rst_example:
 
-Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, written by Georg Brandl and licensed under the BSD license.
+ReST example markup
+-------------------
 
-It was originally created for the Python documentation, and it has excellent facilities for the documentation of software projects in a range of languages. Of course, this site is also created from reStructuredText sources using Sphinx! The following features should be highlighted:
+*Italic* **bold** ``name`` ``function()`` ``expression = 3 + 3``
+`Hyperlink <http://en.wikipedia.org/wiki/Hyperlink>`_ `Link`_
+
+.. _Link: http://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)
+.. image:: images/python-logo.png
+.. A comment block starts with two periods, can continue indented.
+
+A paragraph is one or more lines of un-indented text, separated
+from the material above and below by blank lines.
+
+     “Block quotes look like paragraphs, but are indented with
+     one or more spaces.”
+
+| Because of the pipe characters, this will become one line,
+| And this will become another line, like in poetry.
+
+term
+   Definition for the “term”, indented beneath it.
+another term
+   And its definition; any of these definitions can continue on for
+   several lines by — you guessed it! — being similarly indented.
+
+* Each item in a list starts with an asterisk (or “1.”, “a.”, etc).
+* List items can go on for several lines as long as you remember to
+   keep the rest of the list item indented.
+
+Code blocks are introduced by a double-colon and are indented::
+
+     $ mkdir docs
+
+Examples using Sphinx markup
+----------------------------
+
+A python code block using Sphinx markup:
+
+.. code-block:: python
+
+     import docutils
+     print help(docutils)
+
+.. note:: This is a note using Sphinx markup.
+
+This is a reference to :ref:`rst_example`.
