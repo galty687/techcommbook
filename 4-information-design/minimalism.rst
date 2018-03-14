@@ -1,7 +1,8 @@
 极简主义
 ##############
 
-:date: 2010-10-03 10:20
+:date: 2018-03-14 
+:author: 黄文婷
 
 
 Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, written by Georg Brandl and licensed under the BSD license.
