@@ -17,3 +17,14 @@
 
 同源开发的背景
 -----------------------
+
+
+
+Information Mapping
+------------------------
+
+http://www.informationmapping.com/fspro2013-tutorial/infotypes/infotype2.html#tab2
+
+
+
+
