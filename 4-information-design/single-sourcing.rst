@@ -1,9 +1,19 @@
 同源开发
-##############
+=========================
 
-:date: 2010-10-03 10:20
+:date: 2018-03-08
+:author: 高志军 
 
 
-Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, written by Georg Brandl and licensed under the BSD license.
+什么是同源开发
+--------------------
+同源开发的英文是Single Sourcing，字面意义上的理解则是从同一个来源开发生成不同用途的文档。Ament (2002)给出的定义为：
 
-It was originally created for the Python documentation, and it has excellent facilities for the documentation of software projects in a range of languages. Of course, this site is also created from reStructuredText sources using Sphinx! The following features should be highlighted:
+同源开发
+
+    “同源开发并非一种技术，而是一种方法论”，其能帮助实现系统性信息复用。在这种方法论的指导下，仅需在数据库或源文档中进行一次模块化内容的开发，就能在多种环境下，根据不同受众、不同需求、不同目的而组合出不同的文档，并实现不同格式的输出，从而实现内容的复用和多渠道发布。
+
+具体而言，同源开发
+
+同源开发的背景
+-----------------------
