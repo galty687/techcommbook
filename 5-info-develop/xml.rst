@@ -1,9 +1,101 @@
 XML
 ##############
 
-:date: 2010-10-03 10:20
+:date: 2018-05-08
+:author: 高志军
 
 
-Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, written by Georg Brandl and licensed under the BSD license.
 
-It was originally created for the Python documentation, and it has excellent facilities for the documentation of software projects in a range of languages. Of course, this site is also created from reStructuredText sources using Sphinx! The following features should be highlighted:
+XML是非常重要的存储数据的方式，作为技术写作从业人员，需要了解XML的基本技术，具体如下：
+
+* XML
+* CSS/XSLT
+* DTD/Schema
+
+
+创建XML
+================
+
+ .. code-block:: XML
+    <?xml version="1.0"?>
+
+    <BusinessCard>
+        <Name>Gao Zhijun</Name>
+        <phone type="mobile">+86 10 8264 9812</phone>
+        <phone type="work">+86 10 6127 3510</phone>
+        <phone type="fax">+86 10 6127 3510</phone>
+        <email>gaozhijun@ss.pku.edu.cn</email>
+    </BusinessCard>
+
+
+
+创建CSS
+=======================
+
+ .. code-block: CSS
+
+    BusinessCard {
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: #DACFE5;
+        width: 300px;
+        display: block;
+        padding: 10pt;
+        border: 1px solid #0D3427;
+        margin: 5px;
+        text-align: left;
+    }
+
+    Name {
+        color: #0D3427;
+        font-weight: bold;
+        font-size: 140%;
+        display: block;
+        margin-bottom: 3%;
+    }
+
+    phone {
+        font-size: 90%;
+        color: #523819;
+        font-size: 90%;
+        display: block;
+    }
+
+    email {
+        color: #0D3427;
+        font-size: 90%;
+        font-weight: bold;
+        display: block;
+        margin-top: 3%;
+    }
+
+
+关联CSS至XML
+
+::
+
+    <?xml-stylesheet type="text/css" href="businesscard.css"?>
+
+
+
+创建DTD
+=================
+
+..code-block: DTD
+
+    <!DOCTYPE BusinessCard [
+    <!ELEMENT BusinessCard (Name, phone+, email?)>
+    <!ELEMENT Name (#PCDATA)>
+    <!ELEMENT phone (#PCDATA)>
+    <!ATTLIST phone type (mobile | fax | Work | home) #REQUIRED>
+
+    <!ELEMENT emai (#PCDATA)>
+    
+    
+    
+    
+    
+    
+    
+    ]>
+
+
