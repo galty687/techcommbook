@@ -77,7 +77,7 @@ XML是非常重要的存储数据的方式，作为技术写作从业人员，�
 
 
 
-创建DTD
+创建页面内DTD
 =================
 
 ..code-block: DTD
@@ -90,12 +90,15 @@ XML是非常重要的存储数据的方式，作为技术写作从业人员，�
 
     <!ELEMENT emai (#PCDATA)>
     
-    
-    
-    
-    
+
     
     
     ]>
 
+
+创建独立DTD并关联至xml
+
+::
+
+    <!DOCTYPE BusinessCard SYSTEM "businesscard.dtd">
 
