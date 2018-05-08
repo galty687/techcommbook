@@ -16,7 +16,7 @@ XML是非常重要的存储数据的方式，作为技术写作从业人员，�
 创建XML
 ================
 
- .. code-block:: XML
+ ..code-block:: xml
     <?xml version="1.0"?>
 
     <BusinessCard>
@@ -32,7 +32,7 @@ XML是非常重要的存储数据的方式，作为技术写作从业人员，�
 创建CSS
 =======================
 
- .. code-block: CSS
+ ..code-block: css
 
     BusinessCard {
         font-family: Arial, Helvetica, sans-serif;
@@ -80,7 +80,7 @@ XML是非常重要的存储数据的方式，作为技术写作从业人员，�
 创建页面内DTD
 =================
 
-..code-block: DTD
+..code-block: dtd
 
     <!DOCTYPE BusinessCard [
     <!ELEMENT BusinessCard (Name, phone+, email?)>
