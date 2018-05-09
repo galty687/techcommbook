@@ -167,7 +167,7 @@ map.ditamap
         <?xml version="1.0" encoding="utf-8"?>
         <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 
-        <map lang="zh-cn">
+        <map xml-lang="zh-cn">
         <title>更换燃气灶电池</title>
         <topicref href="concept.xml" type="concept"/>
         <topicref href="task.xml" type="task"/>
