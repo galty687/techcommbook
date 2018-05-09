@@ -81,7 +81,7 @@ XML是非常重要的存储数据的方式，作为技术写作从业人员，�
 创建页面内DTD
 =================
 
-..code-block:: dtd
+ ..code-block:: dtd
 
     <!DOCTYPE BusinessCard [
     <!ELEMENT BusinessCard (Name, phone+, email?)>
