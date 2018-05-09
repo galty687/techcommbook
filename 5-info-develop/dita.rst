@@ -10,7 +10,7 @@ DITA快速入门
 
 General Topic
 
-  .. code-blcok:: xml
+  .. code-block:: xml
     
     <topic id="topic">
     <title>Some little topic</title>
