@@ -77,3 +77,21 @@ Reference Topic
             </properties>
             </refbody>
             </reference>
+
+
+
+DITA MAP
+
+ .. code-block::
+
+        <topicref href="A.dita" collection-type="sequence">
+        <topicref href="A1.dita"/>
+        <topicref href="A2.dita"/>
+        </topicref>
+        <reltable>
+        <relrow>
+            <relcell>A.dita</relcell>
+            <relcell>B.dita</relcell>
+        </relrow>
+        </reltable>
+            
