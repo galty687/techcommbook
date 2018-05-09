@@ -9,6 +9,17 @@ General Topic
 =================
 
  ..code-blcok:: xml
+    
+    <topic id="topic">
+    <title>Some little topic</title>
+    <body>
+        <p>Here's a little topic.</p>
+        <ul>
+        <li>Some item</li>
+        <li>Another item</li>
+        </ul>
+    </body>
+    </topic>
 
 
 
@@ -94,4 +105,9 @@ DITA MAP
             <relcell>B.dita</relcell>
         </relrow>
         </reltable>
-            
+
+
+
+DITA OT 
+=================
+

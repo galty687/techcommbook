@@ -91,11 +91,9 @@ XML是非常重要的存储数据的方式，作为技术写作从业人员，�
 
     <!ELEMENT emai (#PCDATA)>
     
-
-    
-    
     ]>
 
+DTD 参考：https://www.w3cschool.cn/dtd/dtd-intro.html
 
 
 .. note::
