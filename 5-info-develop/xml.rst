@@ -81,7 +81,7 @@ XML是非常重要的存储数据的方式，作为技术写作从业人员，�
 创建页面内DTD
 =================
 
- ..code-block:: html
+ .. code-block:: html
 
     <!DOCTYPE BusinessCard [
     <!ELEMENT BusinessCard (Name, phone+, email?)>
@@ -98,7 +98,8 @@ XML是非常重要的存储数据的方式，作为技术写作从业人员，�
 
 
 
-..note::
+.. note::
+
     * #PCDATA (Parsed Character Data)，简单解释就是元素内只有文本，没有子元素。
 
 
