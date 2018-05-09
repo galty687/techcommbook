@@ -8,7 +8,7 @@ DITA快速入门
 General Topic
 =================
 
- ..code-blcok:: xml
+ .. code-blcok:: xml
     
     <topic id="topic">
     <title>Some little topic</title>
