@@ -143,8 +143,35 @@ task.dita
 concept.dita
 =================
 
+ .. code-block:: xml
+
+        <?xml version="1.0" encoding="utf-8"?>
+        <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+        <concept id="gas">
+        <title>电火花原理</title>
+        <shortdesc>电火花由电池点火发出。</shortdesc>
+        <conbody>
+            <p>脉冲点火的工作原理：输气管→阀体通孔→气阀芯→电磁阀阀门→引射管→喷嘴（与空气一次混合）→炉头→风门→火盖（与空气二次混合），遇火后燃烧</p>
+        </conbody>
+        
+        </concept>
 
 
+
+map.ditamap
+=================
+
+ .. code-block:: xml
+    
+        <?xml version="1.0" encoding="utf-8"?>
+        <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+
+        <map lang="zh-cn">
+        <title>更换燃气灶电池</title>
+        <topicref href="concept.xml" type="concept"/>
+        <topicref href="task.xml" type="task"/>
+        </map>
 
 DITA OT 
 =================
