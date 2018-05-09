@@ -107,7 +107,39 @@ DITA MAP
         </reltable>
 
 
+task.dtd
+============
+
+ .. code-block: xml
+
+        <?xml version="1.0" encoding="utf-8"?>
+        <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+
+        <task xml-lang="zh-cn" id="howToRplace">
+        <title>如何更换灶台电池</title>
+        <shortdesc>介绍如何快速的更换燃气灶头的电池。</shortdesc>
+        <prerequisite>务必需要关上阀门</prerequisite>
+
+        <taskbody>
+            <steps>
+                <step>
+                    <cmd>打开电池盒</cmd>
+                </step>
+                <step>
+                    <cmd>去除旧电池</cmd>
+                </step>
+                    <step>
+                    <cmd>装上新电池</cmd>
+                </step>
+                <step>
+                    <cmd>合上电池盖</cmd>
+                </step>
+            </steps>
+            <result>可以成功打火。</result>
+        </taskbody>
+        </task>
 
 DITA OT 
 =================
 
+发布命令： ``bin/dita --input=sourfile --format=pdf``
