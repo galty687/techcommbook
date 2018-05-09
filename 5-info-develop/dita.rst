@@ -5,10 +5,12 @@ DITA快速入门
 官网说明：https://docs.oasis-open.org/dita/v1.0/archspec/topicover.html
 
 
-General Topic
+各种Topic类型
 =================
 
- .. code-blcok:: xml
+General Topic
+
+  .. code-blcok:: xml
     
     <topic id="topic">
     <title>Some little topic</title>
