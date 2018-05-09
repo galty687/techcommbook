@@ -75,8 +75,7 @@
     
     5-info-develop/html
     5-info-develop/xml
-     5-info-develop/dita.rst
-
+    5-info-develop/dita.rst
     5-info-develop/lightweight
     5-info-develop/versioning.rst
 
