@@ -110,7 +110,7 @@ DITA MAP
 task.dtd
 ============
 
- .. code-block: xml
+ .. code-block:: xml
 
         <?xml version="1.0" encoding="utf-8"?>
         <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
