@@ -93,7 +93,7 @@ Reference Topic
 
 DITA MAP
 
- .. code-block::
+ .. code-block:: xml
 
         <topicref href="A.dita" collection-type="sequence">
         <topicref href="A1.dita"/>
@@ -107,7 +107,7 @@ DITA MAP
         </reltable>
 
 
-task.dtd
+task.dita
 ============
 
  .. code-block:: xml
@@ -138,6 +138,13 @@ task.dtd
             <result>可以成功打火。</result>
         </taskbody>
         </task>
+
+
+concept.dita
+=================
+
+
+
 
 DITA OT 
 =================
