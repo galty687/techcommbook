@@ -15,7 +15,7 @@ Guided Tour
 ===============
 
 * `Crumble <https://link.zhihu.com/?target=http%3A//blog.tommoor.com/crumble/>`_ 。通过非常可爱的蓝色泡泡进行提示。
-* `Bootstrap Tour<https://link.zhihu.com/?target=http%3A//bootstraptour.com/>`_ 。基于bootsrap实现的Tour。
+* `Bootstrap Tour <http://bootstraptour.com>`_ 。基于bootsrap实现的Tour。
 * `Joyride <https://link.zhihu.com/?target=https%3A//zurb.com/playground/jquery-joyride-feature-tour-plugin>`_ 。JS+CSS实现
 * `HopScotch <https://link.zhihu.com/?target=http%3A//linkedin.github.io/hopscotch/>`_。一个向导框架，可以JSON作为输入，开发人员通过API调用即可。
 
