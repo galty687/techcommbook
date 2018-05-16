@@ -1,9 +1,50 @@
+=====================
 AntConc说明书改造
-##############
+=====================
 
-:date: 2010-10-03 10:20
+:date: 2018-05-16 
 
 
-Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, written by Georg Brandl and licensed under the BSD license.
+项目作业要求：
+==================
 
-It was originally created for the Python documentation, and it has excellent facilities for the documentation of software projects in a range of languages. Of course, this site is also created from reStructuredText sources using Sphinx! The following features should be highlighted:
+AntConc是一款语言学分析的重要免费工具，其帮助文档为PDF，文档存储诸多值得改进的地方，本次课程综合项目要求对现有文档进行改造，使其符合现代主流技术文档标准。
+
+软件及其帮助地址，http://www.laurenceanthony.net/software/antconc/
+
+任务一、非结构化转结构化：
+------------------------
+
+该任务需要大家能将AntConc的帮助文档转为DITA的结构，便于后续的内容复用和升级
+
+#. 识别下载官方文档，按照DITA的信息分类方式，使用颜色进行信息标记。例如使用红色标记概念信息、蓝色标记步骤信息。
+#. 按照DITA的Topic结构要求，将上方识别的不同信息类型转为相应的DITA Topic。
+#. 将dita文档发布为PDF（PDF需要有索引）和HTML。
+
+第一次提交内容
+----------------
+
+#. 所有的dita topics打成文件包
+#. 提交时间：2018年5月22日 20：00
+#. 提交至CATTP平台
+
+
+任务二、改进帮助文档
+------------------------
+
+该任务需要大家脱离原来的帮助文档，能够站在一个没有限制的角度，从零开始设计AntConc的帮助文档，写作的时候可以使用CCMS进行协同写作，助教给大家申请了easyDITA的两个月试用，足够大家完成作业了。
+
+大概步骤：
+
+#. 需求分析。需要做用户调研，弄清楚用户常见的任务。
+#. 信息设计。确定信息呈现的方式，手段，语言风格。
+#. 信息开发。根据上述步骤，进行实际写作。
+#. 信息评价。按照ISO 9126-4标准，对文档执行可用测试，对比改进后的文档是否比原文档有更高的可用性。
+
+
+说明：
+
+#. 设计风格不限。极简文档、情感化文档、渐进式文档、嵌入式文档均可
+#. 工具与技术不限。写作时可用DITA，M-DITA，reST，Markdown；协同时可以ccms，github，svn，webdav均可。
+#. 
+
