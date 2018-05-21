@@ -8,16 +8,16 @@ AntConc说明书改造
 项目作业要求：
 ==================
 
-AntConc是一款语言学分析的重要免费工具，其帮助文档为PDF，文档存储诸多值得改进的地方，本次课程综合项目要求对现有文档进行改造，使其符合现代主流技术文档标准。
+AntConc是一款语言学分析的重要免费工具，其帮助文档为PDF，文档存在诸多值得改进的地方，本次课程综合项目要求对现有文档进行改造，使其达到现代主流技术文档水准。
 
 软件及其帮助地址，http://www.laurenceanthony.net/software/antconc/
 
-任务一、非结构化转结构化：
+任务一、非结构化转结构化
 ------------------------
 
 该任务需要大家能将AntConc的帮助文档转为DITA的结构，便于后续的内容复用和升级
 
-#. 识别官方文档的信息类型。按照DITA的信息分类方式，使用颜色进行信息标记。例如使用红色标记概念信息、蓝色标记步骤信息。
+#. 识别官方文档的信息类型。按照DITA的信息分类方式，使用颜色进行信息标记。例如使用红色标记概念信息、蓝色标记步骤信息（颜色自定义） 。
 #. 转写为DITA topic。按照DITA的Topic结构要求，将上方识别的不同信息类型转为相应的DITA Topic。
 #. 将dita文档发布为PDF（PDF需要有索引）和HTML。
 
@@ -54,7 +54,7 @@ AntConc是一款语言学分析的重要免费工具，其帮助文档为PDF，�
 
 * `极简文档的Greyfiti任务分析法 <http://greyfiti.wikidot.com/sdg:gmeth-activity-analyzing-job-domain-tasks>`_
 * SeSAM 方法
-* PI-Class wolfgang
+* PI-Class (Wolfgang)
 * DITA Style Guide
 
 
