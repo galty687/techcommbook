@@ -117,6 +117,13 @@
     9-other_user_support/e-learning.rst
     9-other_user_support/interactive-book.rst
 
+
+.. toctree::
+    :maxdepth:1
+    :caption: 期末论文
+
+    10_term-paper/term-paper.rst  
+
 目录与表格
 ==================
 
