@@ -2,7 +2,7 @@
 期末论文
 ===============
 
-期末论文是个人作业，所有同学均需要完成，大家可以选择将课上内容整理为教程或者做一篇跟本学期内容相关的研究，具体如下：
+期末论文是个人作业，所有同学均需要完成，大家可以选择将课上内容整理为教程或者做一篇跟本学期内容相关的小型研究，具体如下：
 
 
 工具教程
@@ -24,10 +24,10 @@
 
 #. 极简主义（结合上课内容，汇编课上提供的两本极简文档的英文教材）
 #. 用户信息行为
-#. API文档的创作方法
-#. 技术传播工程师应懂的人因工程知识（编译 **Human Factors for Technical Communicators** )
+#. API文档解决方案
+#. 技术传播工程师应懂的人因工程知识（编译 *Human Factors for Technical Communicators* )
 #. 软件文档代码化（Doc as Code)
-#. 同源开发和模块化文档 (编译 **Single Sourcing: Building Modular Documentation** )
+#. 同源开发和模块化文档 (编译 *Single Sourcing: Building Modular Documentation* )
 #. iiRDS
 #. Lightweight DITA
 #. 可用性测试方法
