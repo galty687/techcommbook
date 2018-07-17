@@ -118,25 +118,26 @@ task.dita
         <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 
         <task id="replace" xml:lang="zh-cn">
-        <title>更换燃气灶电池</title>
-        <shortdesc></shortdesc>
-        <prereq>务必需要关上阀门</prereq>
-        <steps>
-            <step>
-            <cmd>打开电池盒</cmd>
-            </step>
-            <step>
-            <cmd>去除旧电池</cmd>
-            </step>
-            <step>
-            <cmd>装上新电池</cmd>
-            </step>
-            <step>
-            <cmd>合上电池盖</cmd>
-            </step>
-        </steps>
-
-        <taskbody/>
+            <title>更换燃气灶电池</title>
+            <shortdesc></shortdesc>
+            <taskbody>
+            <prereq>务必需要关上阀门</prereq>
+            <steps>
+                <step>
+                    <cmd>打开电池盒</cmd>
+                </step>
+                <step>
+                    <cmd>去除旧电池</cmd>
+                </step>
+                <step>
+                    <cmd>装上新电池</cmd>
+                </step>
+                <step>
+                    <cmd>合上电池盖</cmd>
+                </step>
+            </steps>
+            
+            </taskbody>
         </task>
 
 
