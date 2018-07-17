@@ -115,6 +115,7 @@
     :caption: 第九章：新型用户帮助技术
 
     9-other_user_support/ar.rst
+    9-other_user_support/chatbot_intro.rst
     9-other_user_support/chatbot.rst
     9-other_user_support/e-learning.rst
     9-other_user_support/interactive-book.rst
