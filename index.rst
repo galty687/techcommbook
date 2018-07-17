@@ -112,7 +112,7 @@
     8-projects/omegat.rst
 
 .. toctree::
-    :maxdepth:1
+    :maxdepth:2
     :titlesonly:
     :caption: 第九章：新型用户帮助技术
 
