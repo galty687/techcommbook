@@ -112,6 +112,7 @@
 
 .. toctree::
     :maxdepth:1
+    :titleonly:
     :caption: 第九章：新型用户帮助技术
 
     9-other_user_support/ar.rst
