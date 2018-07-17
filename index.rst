@@ -60,7 +60,7 @@
 
 .. toctree::
     :maxdepth:1
-    :titleonly: true
+    :titlesonly: 
     :caption: 第四章：技术信息设计
 
     4-information-design/minimalism.rst
@@ -73,7 +73,7 @@
 
 .. toctree::
     :maxdepth:1
-    :titleonly:
+    :titlesonly:
     :caption: 第五章：技术信息开发技术基础
     
     5-info-develop/html
@@ -113,7 +113,7 @@
 
 .. toctree::
     :maxdepth:1
-    :titleonly:
+    :titlesonly:
     :caption: 第九章：新型用户帮助技术
 
     9-other_user_support/ar.rst
