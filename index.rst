@@ -60,6 +60,7 @@
 
 .. toctree::
     :maxdepth:1
+    :titleonly:
     :caption: 第四章：技术信息设计
 
     4-information-design/minimalism.rst
