@@ -117,29 +117,28 @@ task.dita
         <?xml version="1.0" encoding="utf-8"?>
         <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 
-        <task xml-lang="zh-cn" id="howToRplace">
-        <title>如何更换灶台电池</title>
-        <shortdesc>介绍如何快速的更换燃气灶头的电池。</shortdesc>
-        <prerequisite>务必需要关上阀门</prerequisite>
+        <task id="replace" xml:lang="zh-cn">
+        <title>更换燃气灶电池</title>
+        <shortdesc></shortdesc>
+        <prereq>务必需要关上阀门</prereq>
+        <steps>
+            <step>
+            <cmd>打开电池盒</cmd>
+            </step>
+            <step>
+            <cmd>去除旧电池</cmd>
+            </step>
+            <step>
+            <cmd>装上新电池</cmd>
+            </step>
+            <step>
+            <cmd>合上电池盖</cmd>
+            </step>
+        </steps>
 
-        <taskbody>
-            <steps>
-                <step>
-                    <cmd>打开电池盒</cmd>
-                </step>
-                <step>
-                    <cmd>去除旧电池</cmd>
-                </step>
-                    <step>
-                    <cmd>装上新电池</cmd>
-                </step>
-                <step>
-                    <cmd>合上电池盖</cmd>
-                </step>
-            </steps>
-            <result>可以成功打火。</result>
-        </taskbody>
+        <taskbody/>
         </task>
+
 
 
 concept.dita
