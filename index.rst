@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-技术传播：原理与实践
+技术写作：原理与实践
 ========================================
-本书用于《技术传播方法》课程的教学，因为服务于技术写作课程的教学，本书将采用当前流行的 *Doc like Code* 的模式进行写作。
+本书用于《技术文档写作》课程的教学，因为服务于技术写作课程的教学，本书将采用当前流行的 *Doc like Code* 的模式进行写作。
 
 所用的工具如下：
 
